@@ -1,0 +1,23 @@
+{
+  "name": "helperbot",
+  "version": "1.0.0",
+  "description": "\"HelperBOT\" a discord bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mzilinassim/helperbot.git"
+  },
+  "author": "mzilinassim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mzilinassim/helperbot/issues"
+  },
+  "homepage": "https://gitlab.com/mzilinassim/helperbot#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}

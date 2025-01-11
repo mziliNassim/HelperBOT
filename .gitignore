@@ -1,0 +1,12 @@
+# Pakeges
+/node_modules
+
+# Envirements
+.env
+
+#
+/.git
+
+# Testing
+/test
+test.js
